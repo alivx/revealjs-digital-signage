@@ -1,4 +1,4 @@
 Jinja2==3.1.2
-Flask_SocketIO==5.2.0
+Flask_SocketIO==5.3.0
 Flask==2.2.2
 PyYAML==6.0
